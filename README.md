@@ -10,6 +10,13 @@ This project applies YOLOv8 to detect humans in a static surveillance-style imag
 - Logs results to a CSV file including timestamp and count
 - Saves annotated image and log file (optional)
 
+
+## 📷 Example Output
+
+![Example](Screenshot (6466).png)  
+*Sample output with bounding boxes drawn around detected persons.*
+
+
 ## 🛠 Requirements
 
 Install dependencies:
