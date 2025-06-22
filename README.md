@@ -13,7 +13,9 @@ This project applies YOLOv8 to detect humans in a static surveillance-style imag
 
 ## 📷 Example Output
 
-![Example](Screenshot (6466).png)  
+![Example](Screenshot.png)  
+*Sample output with bounding boxes drawn around detected persons.*
+![Example](output/Screenshot (6466).png)  
 *Sample output with bounding boxes drawn around detected persons.*
 
 
